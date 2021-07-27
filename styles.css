@@ -1,0 +1,28 @@
+/* class */
+.blue{
+    /* color: blue; */
+    /* hex color */
+    /* color: rgba(255, 255, 255, .5); */
+    color: #133805;
+    /* color:hsla(0, 100%, 50%, 0) */
+}
+
+
+h1 {
+    color: aqua;
+}
+
+body{
+    color: rgb(172, 183, 185);
+}
+
+.box{
+    height: 211px;
+    width: 448px;
+    padding: 107px;
+    margin: 121px;
+    border: 23px solid rgb(228, 224, 224);
+    background-color: rgb(7, 7, 7);
+   
+
+}
